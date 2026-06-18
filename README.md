@@ -12,7 +12,7 @@ Formato do repo:
 
 
 
-trabalhofinalnosql-main        
+trabalhofinalnosql-main/        
 
                         ->arangodb_crud_app ( CRUD completo para rodar com docker)
 
