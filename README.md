@@ -12,10 +12,10 @@ Formato do repo:
 
 
 
-trabalhofinalnosql-main ->arangodb_crud_app ( CRUD completo para rodar com docker)
+trabalhofinalnosql-main        
 
+                        ->arangodb_crud_app ( CRUD completo para rodar com docker)
 
                         ->ArangoDB_Apresentacao.pdf   ( apresentação de slides) 
-
                         
                         ->Trabalho_FINAL_BDNR _ArangoDB.pdf (documentação do trabalho) 
